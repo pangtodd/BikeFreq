@@ -3,3 +3,7 @@
   max-height: auto;
   padding=left: 2 rem;
 }
+
+.navbarScroll, .navbarDark {
+  background-color: black;
+}
