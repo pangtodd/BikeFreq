@@ -10,6 +10,8 @@ Demo website for local bike shop
 * CSS
 <!-- * Bootstrap? Not sure gonna use that or not -->
 * markdown
+* referenced this [template by ]: https://github.com/Oak-Harbor-Kits/Starter-KitV3.
+* also referenced this [template/project by Sampurna Chapagain](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/) 
 
 ## Description: static business website
 
@@ -18,8 +20,7 @@ I wanted to expand my portfolio as I look for work. I noticed my local bike shop
 ## Setup/Installation Requirements
 
 * you can view the website [here] (tbd) or you can cut and paste this into your browser: tbd
-* If you want see the code/files on your local machine, follow the steps below:
-* If you don't have git installed on your machine, follow these [instructions.](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)
+* If you want see the code/files on your local machine:
 * via your terminal, navigate to the directory you want to store my files in.
 * clone my git hub directory by typing or cutting pasting: "git clone https://github.com/pangtodd/bikefreq.git" into your terminal
 * open files in browswer or code editor of your choice.
