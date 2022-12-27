@@ -1,9 +1,16 @@
 .logo {
-  max-width: 80%;
+  max-width: 20%;
   max-height: auto;
   padding=left: 2 rem;
 }
 
 .navbarScroll, .navbarDark {
   background-color: black;
+}
+
+#footer {
+  background-color: #808080;
+  /* text-align: left; */
+  color: black;
+  /* background;black; */
 }
