@@ -8,9 +8,13 @@
   background-color: black;
 }
 
-/* .container {
-  margin: 10%;
-} */
+a:link {
+  color: #02430d;
+  text-decoration: underline;
+}
+a:visited {
+  color: rgb(48, 23, 43);
+}
 
 .bgimage {
   height: 100vh;
@@ -52,9 +56,17 @@
 #contact {
   margin-top: 4rem;
   padding-top: 4rem;
-  margin-left: 8rem;
-  margin-right: 8rem;
   font-size: 1.5rem;
+}
+
+.bikeImg {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.bikeImg3 {
+  max-width: 30%;
+  max-height: auto;
 }
 
 #footer {
