@@ -8,9 +8,13 @@
   background-color: black;
 }
 
-/* .container {
-  margin: 10%;
-} */
+a:link {
+  color: #02430d;
+  text-decoration: underline;
+}
+a:visited {
+  color: rgb(48, 23, 43);
+}
 
 .bgimage {
   height: 100vh;
