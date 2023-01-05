@@ -1,7 +1,7 @@
 .logo {
   max-width: 20%;
   max-height: auto;
-  padding: left: 2 rem;
+  padding:2rem;
 }
 
 .navbarScroll, .navbarDark {
@@ -9,11 +9,11 @@
 }
 
 a:link {
-  color: #02430d;
+  color: rgb(105,191,74);
   text-decoration: underline;
 }
 a:visited {
-  color: rgb(48, 23, 43);
+  color: rgb(147, 53, 141);
 }
 
 .bgimage {
@@ -41,16 +41,28 @@ a:visited {
   transform: translate(-50%, -50%);
   color: white;
 }
-.hero-text {
+
+/* .hero-text {
   position: absolute;
   text-align: right;
-  top: 60%;
+  text-size-adjust: 3.5 rems;
+  top: 80%;
   left: 60%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: rgb(32, 95, 23);
+  background-color: black;
+} */
+
+#title{
+  text-align: center;
+  font-weight: bold;
 }
 
-#about,
+#about {
+  padding-top: 4rem;
+  font-size: 1.5rem;
+}
+
 #services,
 #sales,
 #contact {
@@ -70,8 +82,10 @@ a:visited {
 }
 
 #footer {
-  background-color: #808080;
-  /* text-align: left; */
-  color: black;
-  /* background;black; */
+  background-color: black;
+  color: whitesmoke;
+}
+
+.credit {
+  text-align: center;
 }
